@@ -1,0 +1,6 @@
+
+{
+  "name": "Fruity Fiesta - Fruit Classification & Quality Detection",
+  "description": "An automated system for classifying fruits (Apple, Banana, Orange) and detecting their quality (Fresh vs. Rotten) using advanced AI vision techniques.",
+  "requestFramePermissions": ["camera"]
+}
